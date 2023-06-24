@@ -1,4 +1,4 @@
-![Eruption logo](assets/eruption.webp)
+![Eruption logo](profile/assets/eruption.webp)
 
 ![License](https://img.shields.io/github/license/X3n0m0rph59/eruption?style=flat-square)
 ![Stars](https://img.shields.io/github/stars/X3n0m0rph59/eruption?style=flat-square)
