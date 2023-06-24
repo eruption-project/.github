@@ -11,16 +11,16 @@
 <div align="center">
   <br></br>
   <a href="https://www.gnu.org/">
-    <img src="assets/GPLv3_Logo.svg" height="50" alt="GPLv3 logo" />
+    <img src="profile/assets/GPLv3_Logo.svg" height="50" alt="GPLv3 logo" />
   </a>&nbsp;&nbsp;
   <a href="https://www.rust-lang.org/">
-    <img src="assets/rustacean-orig-noshadow.svg" height="50" alt="Rustacean logo" />
+    <img src="profile/assets/rustacean-orig-noshadow.svg" height="50" alt="Rustacean logo" />
   </a>&nbsp;&nbsp;
   <a href="https://kernel.org/">
-    <img src="assets/tux.svg" height="50" alt="Linux Tux" />
+    <img src="profile/assets/tux.svg" height="50" alt="Linux Tux" />
   </a>&nbsp;&nbsp;
   <a href="https://www.khronos.org/">
-    <img src="assets/vulkan.svg" height=50 alt="Vulkan" />
+    <img src="profile/assets/vulkan.svg" height=50 alt="Vulkan" />
   </a>
   <br></br>
 </div>
